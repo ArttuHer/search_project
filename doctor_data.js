@@ -31,7 +31,7 @@ export const data = [{
     "gender": "Nainen",
     "city": "Otaniemi",
     "company": "Helmi Hoitaa Oy",
-    "service": "Gynegologi",
+    "service": "Gynekologi",
     "date": "04/02/2023",	
     "time": "11:00",
     "length": "30 minuuttia",
